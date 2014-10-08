@@ -1,0 +1,17 @@
+{
+  "name": "gamepad-demo",
+  "version": "0.0.1",
+  "description": "",
+  "main": "gamepad-demo.js",
+  "dependencies": {
+    "ar-drone": "^0.3.2",
+    "lodash": "^2.4.1",
+    "node-gamepad": "^0.1.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+      "start": "node gamepad-demo.js"
+  },
+  "author": "m.schuhfuss@gmail.com",
+  "license": "WTFPL"
+}
